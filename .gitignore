@@ -8,6 +8,14 @@ Thumbs.db
 ehthumbs.db
 Desktop.ini
 
+# ── Tool internals ────────────────────────
+.kluster/
+.Spotlight-V100
+.Trashes
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
 # ── Windows accidental files ───────────────
 nul
 
