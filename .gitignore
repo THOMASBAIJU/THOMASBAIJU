@@ -1,0 +1,28 @@
+# ── OS generated ──────────────────────────
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# ── Windows accidental files ───────────────
+nul
+
+# ── Editor & IDE ──────────────────────────
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# ── Node (if any tooling is added later) ──
+node_modules/
+npm-debug.log*
+
+# ── Logs & temp ───────────────────────────
+*.log
+*.tmp
+*.bak
