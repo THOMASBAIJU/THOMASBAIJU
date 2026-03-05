@@ -19,6 +19,7 @@ I am a Software Developer specializing in the intersection of Full-Stack Enginee
 * 🔭 I'm currently working on **Speech Emotion Recognition** & **Behavior Analysis**.
 * 🌱 Learning more about **Scalable System Design** and **MLOps**.
 * ⚡ Fun fact: I developed an AI application to translate baby cries (**YCRY-AI**)!
+* 🌐 Check out my portfolio: **[portfolio-thomas-baiju.onrender.com](https://portfolio-thomas-baiju.onrender.com)**
 
 ---
 
