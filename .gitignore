@@ -8,8 +8,9 @@ Thumbs.db
 ehthumbs.db
 Desktop.ini
 
-# ── Tool internals ────────────────────────
+# ── Tool & agent internals ───────────────
 .kluster/
+.agent/
 .Spotlight-V100
 .Trashes
 Thumbs.db
