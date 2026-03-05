@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0e75b6&height=250&section=header&text=Thomas%20Baiju&fontSize=50&fontAlignY=35&desc=Full-Stack%20Engineer%20and%20AI%20Developer&descAlignY=55&descSize=20&animation=fadeIn&fontColor=ffffff" width="100%" alt="Header" />
+  <img src="https://raw.githubusercontent.com/THOMASBAIJU/THOMASBAIJU/main/header.svg" width="100%" alt="Thomas Baiju - Full-Stack Engineer and AI Developer" />
 
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Full-Stack+Engineering;Building+Intelligent+AI+Solutions;Python+%7C+Flask+%7C+TensorFlow;Turning+Data+into+Decisions" alt="Typing SVG" />
 
